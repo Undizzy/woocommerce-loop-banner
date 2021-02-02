@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Woo Loop Banner
-Plugin URI: https://metronic.ml/woocommerce-loop-banner-wordpress-plugin.html
+Plugin URI: https://github.com/Undizzy/woocommerce-loop-banner
 Description: Добаляет возможность отображения рекламного баннера в категориях и метках товаров в случайной позиции.
 Version: 1.0
 Author: Undizzy
